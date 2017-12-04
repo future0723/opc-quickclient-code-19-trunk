@@ -139,9 +139,9 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OPCLib\OPCLib.csproj">
+    <ProjectReference Include="..\OPCLib\OpcLib.csproj">
       <Project>{039AD3AF-F7B6-4995-8AE4-8FF431213BE0}</Project>
-      <Name>OPCLib</Name>
+      <Name>OpcLib</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

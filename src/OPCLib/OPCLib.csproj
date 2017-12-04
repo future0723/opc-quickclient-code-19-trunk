@@ -53,10 +53,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OpcCommon.cs" />
-    <Compile Include="OpcData.cs" />
-    <Compile Include="OpcGroup.cs" />
-    <Compile Include="OpcServer.cs" />
+    <Compile Include="Common\OpcCommon.cs" />
+    <Compile Include="Datas\OpcData.cs" />
+    <Compile Include="Groups\OpcGroup.cs" />
+    <Compile Include="Server\OpcServer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utility\JsonHelper.cs" />
     <Compile Include="Utility\MySqlHelper.cs" />

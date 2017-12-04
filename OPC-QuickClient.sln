@@ -1,13 +1,13 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "src\GUI\GUI.csproj", "{F1B76408-6C7C-43EA-A569-A0D68436A2FB}"
 	ProjectSection(ProjectDependencies) = postProject
 		{039AD3AF-F7B6-4995-8AE4-8FF431213BE0} = {039AD3AF-F7B6-4995-8AE4-8FF431213BE0}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCLib", "src\OPCLib\OPCLib.csproj", "{039AD3AF-F7B6-4995-8AE4-8FF431213BE0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpcLib", "src\OPCLib\OpcLib.csproj", "{039AD3AF-F7B6-4995-8AE4-8FF431213BE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,7 +28,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		VisualSVNWorkingCopyRoot = .
 		SolutionGuid = {93F6FEDA-5C27-471D-89F0-5F648AF5845B}
+		VisualSVNWorkingCopyRoot = .
 	EndGlobalSection
 EndGlobal
